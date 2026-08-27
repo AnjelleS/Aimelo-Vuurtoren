@@ -1,13 +1,12 @@
 ---
 kanaal: linkedin
 dag: 1
-datum: 2026-09-02
-dagnaam: woensdag
+datum: 2026-08-27
+dagnaam: donderdag
+jouw_post: 1
 onderwerp: "de oorspronkelijke reden"
-media: "bestaande advertentievideo, native upload"
-media_bestand: VIDEO-NOG-AANLEVEREN
-automatiseerbaar: nee
-reden: "native video-upload gaat niet via Zapier — handmatig plaatsen"
+beeld: beeld/woensdag-16x9.png
+_beeld: "gifje / 16:9-still"
 status: gepland
 ---
 

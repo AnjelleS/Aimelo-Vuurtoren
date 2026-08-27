@@ -1,24 +1,28 @@
 ---
 kanaal: linkedin
 dag: 7
-datum: 2026-09-08
-dagnaam: dinsdag
-onderwerp: "lichte urgentie — de avond ervoor"
-media: "still of poster"
-media_bestand: beeld/dag-06-4x5.png
-automatiseerbaar: ja
+datum: 2026-09-02
+dagnaam: woensdag
+jouw_post: 6
+onderwerp: "samen bouwen"
+beeld: beeld/dag-07-4x5.png
+_beeld: "poster — Vanavond. Loop binnen."
+omgewisseld: true
+_ruil: "jouw post 7 zegt 'morgenavond' — die hoort op dinsdag, niet op de avond zelf.
+  Daarom staat post 7 op dag 6 en post 6 op dag 7. Geen woord veranderd, alleen de volgorde.
+  Wil je het terug: verwissel de teksten van dag-06.md en dag-07.md."
 laatste: true
 status: gepland
 ---
 
-Morgenavond één vraag:
+Vrijheid betekent niet dat je alles alleen moet uitzoeken.
 
-**Wat zou jij slimmer kunnen organiseren om weer meer te ondernemen zoals je ooit bedoelde?**
+Elke woensdag zit in Almelo een tafel vol ondernemers, studenten, laptops, praktijkvragen en verschillende niveaus van AI-ervaring.
 
-Neem één echte taak mee: een offerte, klantmail, planning, contentklus of proces dat steeds terugkomt.
+De één zet een eerste stap. De ander bouwt een complete workflow. Iedereen werkt aan iets dat past bij zijn of haar eigen bedrijf.
 
-Nog nooit met AI gewerkt? We beginnen bij de basis. Gebruik je het al? Dan bouwen we verder dan losse prompts.
+Geen verkooppraat en geen dure cursus. Wel samen bouwen aan meer ruimte voor het werk dat jij belangrijk vindt.
 
-Gratis, woensdag 18:00–21:00 bij Moving-In in Almelo. Laptop mee.
+Woensdag 18:00–21:00, Moving-In Almelo. Gratis.
 
 https://aimelo.nl/aanmelden/2?van=li

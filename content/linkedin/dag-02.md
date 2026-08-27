@@ -1,12 +1,12 @@
 ---
 kanaal: linkedin
 dag: 2
-datum: 2026-09-03
-dagnaam: donderdag
+datum: 2026-08-28
+dagnaam: vrijdag
+jouw_post: 2
 onderwerp: "de vrijheid die volliep"
-media: "poster of still"
-media_bestand: beeld/dag-01-4x5.png
-automatiseerbaar: ja
+beeld: beeld/dag-01-4x5.png
+_beeld: "poster — Geen marketingbudget?"
 status: gepland
 ---
 

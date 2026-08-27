@@ -1,6 +1,6 @@
 ---
 dag: 6
-datum: 2026-09-08
+datum: 2026-09-01
 dagnaam: dinsdag
 invalshoek: "de herinnering — morgen"
 doelgroep: iedereen die de week heeft meegelezen

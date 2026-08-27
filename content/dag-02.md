@@ -1,6 +1,6 @@
 ---
 dag: 2
-datum: 2026-09-04
+datum: 2026-08-28
 dagnaam: vrijdag
 invalshoek: "het werk verdwijnt bij de klant"
 doelgroep: schilders, stukadoors, interieurbouwers, kunstenaars

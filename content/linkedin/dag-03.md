@@ -1,13 +1,12 @@
 ---
 kanaal: linkedin
 dag: 3
-datum: 2026-09-04
-dagnaam: vrijdag
+datum: 2026-08-29
+dagnaam: zaterdag
+jouw_post: 3
 onderwerp: "voor wie al met AI werkt"
-media: "bestaande advertentievideo"
-media_bestand: VIDEO-NOG-AANLEVEREN
-automatiseerbaar: nee
-reden: "native video-upload gaat niet via Zapier — handmatig plaatsen"
+beeld: beeld/woensdag-16x9.png
+_beeld: "gifje / 16:9-still"
 status: gepland
 ---
 

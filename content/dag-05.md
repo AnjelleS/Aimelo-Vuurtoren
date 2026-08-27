@@ -1,6 +1,6 @@
 ---
 dag: 5
-datum: 2026-09-07
+datum: 2026-08-31
 dagnaam: maandag
 invalshoek: "maatwerk in het vak, standaard in de marketing"
 doelgroep: meubelmakers, timmerlieden, interieurbouwers

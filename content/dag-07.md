@@ -1,6 +1,6 @@
 ---
 dag: 7
-datum: 2026-09-09
+datum: 2026-09-02
 dagnaam: woensdag
 invalshoek: "de dag zelf — vanavond, met alle praktische info"
 doelgroep: iedereen

@@ -1,6 +1,6 @@
 ---
 dag: 4
-datum: 2026-09-06
+datum: 2026-08-30
 dagnaam: zondag
 invalshoek: "product verkoopt, verhaal niet"
 doelgroep: bakkers, slagers, speciaalzaken, horeca

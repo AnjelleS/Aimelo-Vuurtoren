@@ -7,11 +7,12 @@
     "tijd": "18.00 - 21.00 uur",
     "locatie": "Moving-In Almelo",
     "aanmeldlink": "https://aimelo.nl/aanmelden/2",
-    "_let_op": "tijd en locatie compleet; alleen parkeerinfo ontbreekt nog"
+    "_let_op": "alles compleet; alleen parkeerinfo ontbreekt in één WhatsApp-bericht",
+    "datum": "2026-09-02"
   },
   "status": "niet-gestart",
   "_anker": "de sprint loopt naar de woensdagavond toe: dag 7 = de avond zelf",
-  "harde_stopdatum": "2026-09-09",
+  "harde_stopdatum": "2026-09-02",
   "_teller": "REM A — run 7 verwijdert de Routine(s) hieronder",
   "dag": 0,
   "laatste_dag": 7,
@@ -21,7 +22,17 @@
     "gerenderd": "7x 1080x1350 (4:5) + 7x 1080x1920 (9:16), tijd staat in beeld",
     "bron": "beeld/bron/posters.py — opnieuw draaien om tekst of tijd te wijzigen",
     "let_op": "reconstructie in AiMelo-stijl (Anton), geen export van de Canva-originelen",
-    "publieke_url_klaar": false
+    "publieke_url_klaar": false,
+    "gifje": {
+      "bestand": "beeld/AANLEVEREN.gif",
+      "aanwezig": false,
+      "gebruikt_op": [
+        "LinkedIn dag 1",
+        "LinkedIn dag 3"
+      ],
+      "terugval": "beeld/woensdag-16x9.png — zelfde ontwerp, statisch",
+      "_test": "aansluitcontrole test of een GIF door de LinkedIn-koppeling komt en blijft bewegen"
+    }
   },
   "kanalen": {
     "linkedin": {
@@ -35,7 +46,8 @@
       "koppeling": "ONTBREEKT — nog niet verbonden in Zapier",
       "wachtrij": "content/linkedin/",
       "video_automatiseerbaar": false,
-      "_video": "dag 1 en 3 gebruiken native video — Zapier's LinkedIn-actie doet tekst+afbeelding, geen video. Handmatig plaatsen."
+      "_video": "dag 1 en 3 gebruiken native video — Zapier's LinkedIn-actie doet tekst+afbeelding, geen video. Handmatig plaatsen.",
+      "getest": "nog niet — draait bij de aansluitcontrole"
     },
     "instagram": {
       "aan": false,
@@ -45,12 +57,14 @@
         "business_of_creator_account": false,
         "gekoppeld_aan_facebook_pagina": false,
         "publieke_beeld_url_beschikbaar": false
-      }
+      },
+      "getest": "nog niet — draait bij de aansluitcontrole"
     },
     "facebook": {
       "aan": false,
       "zapier_app": "FacebookV2CLIAPI",
-      "koppeling": "ONTBREEKT — pagina is toch al nodig voor Instagram"
+      "koppeling": "ONTBREEKT — pagina is toch al nodig voor Instagram",
+      "getest": "nog niet — draait bij de aansluitcontrole"
     },
     "whatsapp": {
       "aan": false,
@@ -72,31 +86,29 @@
     "instagram_facebook": "Je werk is goed, het wordt alleen niet gezien",
     "_let_op": "TWEE verschillende boodschappen over dezelfde avond — bewuste keuze of nog uitlijnen? Zie LINKEDIN.md §2"
   },
-  "kalenders": {
-    "linkedin": {
-      "start": "2026-09-02",
-      "eind": "2026-09-08",
-      "posts": 7,
-      "_noot": "eindigt de avond VOOR het evenement — post 7 zegt 'morgenavond'"
-    },
-    "instagram_facebook_whatsapp": {
-      "start": "2026-09-03",
-      "eind": "2026-09-09",
-      "posts": 7,
-      "_noot": "eindigt op de avond zelf"
-    }
-  },
   "links": {
     "linkedin": "https://aimelo.nl/aanmelden/2?van=li",
     "instagram": "https://aimelo.nl/aanmelden/2?van=ig",
     "facebook": "https://aimelo.nl/aanmelden/2?van=fb",
     "whatsapp": "https://aimelo.nl/aanmelden/2?van=wa",
-    "_noot": "?van=li kwam van jou; ig/fb/wa naar analogie gekozen — controleren"
+    "_noot": "aimelo.nl herkent alle vier de parameters — bevestigd"
   },
   "nog_aan_te_leveren": [
-    "advertentievideo (LinkedIn dag 1, 3, evt 6)",
-    "still ondernemer aan het werk (LinkedIn dag 4)",
-    "campagne-still (LinkedIn dag 5)",
+    "het echte gifje (LinkedIn dag 1 en 3)",
     "parkeerinfo (WhatsApp dag-zelf bericht)"
-  ]
+  ],
+  "versie": "1.0",
+  "kalender": {
+    "start": "2026-08-27",
+    "eind": "2026-09-02",
+    "posts_per_kanaal": 7,
+    "afsluitrun": "2026-09-03",
+    "_noot": "één kalender voor alle kanalen; dag 7 is de avond zelf"
+  },
+  "linkedin_ruil": {
+    "dag_6": "jouw post 7 (morgenavond)",
+    "dag_7": "jouw post 6 (samen bouwen)",
+    "_reden": "post 7 zegt 'morgenavond' en zou anders op de avond zelf landen",
+    "_terugdraaien": "verwissel de teksten van content/linkedin/dag-06.md en dag-07.md"
+  }
 }

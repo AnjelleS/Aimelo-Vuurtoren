@@ -39,64 +39,60 @@ Twee wegen:
 
 ---
 
-## 3. Een eigen kalender — een dag eerder
+## 3. De kalender
 
-Jouw zevende post zegt *"morgenavond"*. Die eindigt dus op de **avond vóór** het
-evenement, niet op de avond zelf. Dat is een andere boog dan Instagram, die juist
-op woensdag uitkomt.
+Alle kanalen draaien op dezelfde zeven dagen: **donderdag 27 augustus tot en met
+woensdag 2 september.** Dag 7 is de avond zelf.
 
-Dus krijgt LinkedIn een eigen kalender, één dag eerder:
+Jouw post 7 zegt *"morgenavond"* en zou op woensdag landen. Daarom staan post 6 en
+7 omgewisseld ingepland — geen woord veranderd, alleen de volgorde. Zie
+[`RELEASE.md`](RELEASE.md) §2.
 
-| | LinkedIn | Instagram · Facebook · WhatsApp |
-|---|---|---|
-| Dag 1 | **wo 2 sep** | — |
-| Dag 2 | do 3 sep | dag 1 — do 3 sep |
-| Dag 3 | vr 4 sep | dag 2 — vr 4 sep |
-| Dag 4 | za 5 sep | dag 3 — za 5 sep |
-| Dag 5 | zo 6 sep | dag 4 — zo 6 sep |
-| Dag 6 | ma 7 sep | dag 5 — ma 7 sep |
-| Dag 7 | **di 8 sep** — *morgenavond* | dag 6 — di 8 sep |
-| — | *geen post* | dag 7 — **wo 9 sep** — *vanavond* |
+| Dag | Datum | LinkedIn | Jouw post |
+|---|---|---|---|
+| 1 | do 27 aug | De oorspronkelijke reden | 1 |
+| 2 | vr 28 aug | De vrijheid die volliep | 2 |
+| 3 | za 29 aug | Voor wie al met AI werkt | 3 |
+| 4 | zo 30 aug | Vakmanschap | 4 |
+| 5 | ma 31 aug | Vraagpost A t/m E | 5 |
+| 6 | di 1 sep | Morgenavond | **7** |
+| 7 | wo 2 sep | Samen bouwen | **6** |
 
-Beide kanalen krijgen precies zeven posts. Het venster loopt van woensdag 2 tot
-en met woensdag 9 september, en stopt daarna hard.
+Elk kanaal krijgt precies zeven posts. Het venster loopt van donderdag 27
+augustus tot en met woensdag 2 september, en stopt daarna hard.
 
-Dat LinkedIn niet op de dag zelf post is geen gat: **WhatsApp doet de dag zelf.**
-Het bericht van woensdagmiddag 12.00 is wat mensen daadwerkelijk in de auto zet,
-en dat leest bijna iedereen. Zie `WHATSAPP.md`.
+LinkedIn post óók op de dag zelf, maar het bericht dat de opkomst werkelijk
+bepaalt is dat van WhatsApp op woensdagmiddag 12.00. Dat leest bijna iedereen.
+Zie `WHATSAPP.md`.
 
 ---
 
 ## 4. De posts en hun media
 
-| Dag | | Onderwerp | Media | Automatisch? |
+| Dag | Datum | Onderwerp *(jouw post)* | Media | Automatisch? |
 |---|---|---|---|---|
-| 1 | wo 2 sep | De oorspronkelijke reden | advertentievideo, native | **Nee** |
-| 2 | do 3 sep | De vrijheid die volliep | poster of still | Ja |
-| 3 | vr 4 sep | Voor wie al met AI werkt | advertentievideo | **Nee** |
-| 4 | za 5 sep | Vakmanschap | still, ondernemer aan het werk | Ja |
-| 5 | zo 6 sep | Vraagpost A t/m E | campagne-still | Ja |
-| 6 | ma 7 sep | Samen bouwen | video *of* poster | Alleen met poster |
-| 7 | di 8 sep | Lichte urgentie | still of poster | Ja |
+| 1 | do 27 aug | De oorspronkelijke reden *(1)* | het gifje | **Testen** |
+| 2 | vr 28 aug | De vrijheid die volliep *(2)* | poster — Geen marketingbudget? | Ja |
+| 3 | za 29 aug | Voor wie al met AI werkt *(3)* | het gifje | **Testen** |
+| 4 | zo 30 aug | Vakmanschap *(4)* | poster — Je kasten zijn maatwerk | Ja |
+| 5 | ma 31 aug | Vraagpost A t/m E *(5)* | poster — Je tuinen zijn prachtig | Ja |
+| 6 | di 1 sep | Morgenavond *(7)* | poster — Morgenavond. Nog plek. | Ja |
+| 7 | wo 2 sep | Samen bouwen *(6)* | poster — Vanavond. Loop binnen. | Ja |
 
-### De videoposts kunnen niet automatisch
-De LinkedIn-koppeling van Zapier werkt met tekst en een afbeelding. **Native
-video-upload zit daar niet bij.** Dag 1 en 3 plaats je dus met de hand, en dag 6
-kies je: video handmatig, of poster automatisch.
+### Het gifje op dag 1 en 3
+De LinkedIn-koppeling van Zapier werkt met een afbeelding-URL. Of een GIF daar
+doorheen komt — en of hij blijft bewegen — is niet te voorspellen zonder te
+testen. **De aansluitcontrole test dit expliciet** voordat dag 1 draait; zie
+`RUNBOOK.md`.
 
-Dat is geen ramp — het zijn drie momenten in een week. Maar het moet in de
-planning staan, niet als verrassing op woensdagochtend.
+Komt hij niet door, dan valt `beeld/woensdag-16x9.png` in: hetzelfde ontwerp,
+statisch. Je verliest de beweging, niet de post.
 
-> Ik kon dit niet testen: er is nog geen LinkedIn-koppeling. Controleer het bij
-> het koppelen. Blijkt video wél te kunnen, dan zetten we die drie alsnog in de
-> automatisering.
+**Nog aan te leveren:** het echte `.gif`-bestand. Het kwam binnen als stilstaand
+beeld, dus ik heb het bestand zelf niet.
 
-### Nog aan te leveren
-- De advertentievideo (dag 1, 3, eventueel 6)
-- De still met een ondernemer aan het werk (dag 4)
-- De campagne-still (dag 5)
-
-Dag 2 en 7 kunnen vooruit met de bestaande posters.
+De stills voor dag 4 en 5 zijn niet meer nodig — die dagen zijn met de bestaande
+posters gevuld.
 
 ---
 

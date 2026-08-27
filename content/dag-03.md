@@ -1,6 +1,6 @@
 ---
 dag: 3
-datum: 2026-09-05
+datum: 2026-08-29
 dagnaam: zaterdag
 invalshoek: "prachtig werk, geen publiek"
 doelgroep: hoveniers, tuinontwerpers, groenbedrijven

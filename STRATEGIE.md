@@ -17,10 +17,9 @@ Dat tweede gegeven bepaalt de hele opzet. Dit is geen losse contentweek — het
 is **een aanloop naar één woensdagavond.** Zeven dagen die ergens naartoe
 lopen, in plaats van zeven dagen die toevallig achter elkaar vallen.
 
-> **Daarom loopt alles naar woensdag 9 september toe.**
-> LinkedIn draait woensdag 2 t/m dinsdag 8 september en eindigt de avond ervóór.
-> Instagram, Facebook en WhatsApp draaien donderdag 3 t/m woensdag 9 en eindigen
-> op de avond zelf. Beide precies zeven posts; zie [`LINKEDIN.md`](LINKEDIN.md).
+> **Alles loopt naar woensdag 2 september toe.**
+> Zeven dagen, van donderdag 27 augustus tot en met de avond zelf. Elk kanaal
+> zeven posts. Zie [`RELEASE.md`](RELEASE.md) voor de volledige kalender.
 
 Loopt hij goed, dan draai je hem opnieuw voor de woensdag erna. Deze week is de
 proef, niet het eindpunt.
@@ -57,7 +56,7 @@ en er staat in week drie nog steeds iets te posten.
 | | Rem | Vangt af |
 |---|---|---|
 | **a** | Teller: run 7 verwijdert de Routine | De normale weg |
-| **b** | Harde einddatum in de opdracht zelf: na 9 september publiceert geen enkele run nog iets, wat de teller ook zegt | Teller corrupt, Routine twee keer afgegaan, run 7 mislukt |
+| **b** | Harde einddatum in de opdracht zelf: na 2 september publiceert geen enkele run nog iets, wat de teller ook zegt | Teller corrupt, Routine twee keer afgegaan, run 7 mislukt |
 
 De datumcontrole draait vóór de teller. Zo leidt een verkeerd opgehoogde teller
 nooit tot een achtste post.
@@ -151,15 +150,15 @@ er niet van.
 
 ## 6. De aanloop — zeven dagen
 
-| Dag | | Poster | Wie je aanspreekt |
+| Dag | Datum | Poster | Wie je aanspreekt |
 |---|---|---|---|
-| 1 | do 3 sep | *Geen marketingbudget?* | iedereen — de brede haak |
-| 2 | vr 4 sep | *Je mooiste werk hangt bij je klant* | schilders, stukadoors, interieurbouw |
-| 3 | za 5 sep | *Je tuinen zijn prachtig* | hoveniers, groenbedrijven |
-| 4 | zo 6 sep | *Je brood verkoopt zichzelf* | bakkers, slagers, speciaalzaken |
-| 5 | ma 7 sep | *Je kasten zijn maatwerk* | meubelmakers, timmerlieden |
-| 6 | di 8 sep | **MORGEN** — nog te maken | de herinnering |
-| 7 | wo 9 sep | **VANAVOND** — nog te maken | de avond zelf |
+| 1 | do 27 aug | *Geen marketingbudget?* | iedereen — de brede haak |
+| 2 | vr 28 aug | *Je mooiste werk hangt bij je klant* | schilders, stukadoors, interieurbouw |
+| 3 | za 29 aug | *Je tuinen zijn prachtig* | hoveniers, groenbedrijven |
+| 4 | zo 30 aug | *Je brood verkoopt zichzelf* | bakkers, slagers, speciaalzaken |
+| 5 | ma 31 aug | *Je kasten zijn maatwerk* | meubelmakers, timmerlieden |
+| 6 | di 1 sep | *Morgenavond. Nog plek.* | de herinnering |
+| 7 | wo 2 sep | *Vanavond. Loop gewoon binnen.* | de avond zelf |
 
 Vijf haken, dan twee uitnodigingen. Dat laatste stuk is niet optioneel: **geen
 van je vijf posters zegt wanneer of waar.** Ze prikken alleen. Zonder dag 6 en 7
@@ -225,7 +224,7 @@ alles af, ook als er ergens nog een Routine blijft staan.
 | 4 | Instagram op Business/Creator + Facebook-pagina koppelen | Jij |
 | 5 | Zapier koppelen: LinkedIn, Instagram, Facebook Pages | Jij |
 | 6 | Beeld op een publieke URL zetten | Ik |
-| 7 | Routines aanzetten met einddatum 9 september | Ik |
+| 7 | Routines aanzetten met einddatum 2 september | Ik |
 
 Punt 1 is de belangrijkste. De tijd staat er nu in, maar zonder locatie en een
 knop om op te drukken leveren zeven prachtige posters nog steeds nul

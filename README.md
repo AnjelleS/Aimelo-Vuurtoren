@@ -1,33 +1,31 @@
-# AiMelo — aanloop naar de woensdagavond
+# AiMelo campagne v1.0
 
-Gratis AI-avond, **woensdag 18.00 – 21.00 uur, Moving-In Almelo**.
-Twee kalenders, allebei zeven posts, harde stop op 9 september.
+Aanloop naar de gratis AI-avond: **woensdag 2 september 2026, 18.00–21.00,
+Moving-In Almelo.** Zeven dagen, vier kanalen, daarna stopt alles automatisch.
 
-| | LinkedIn | Instagram · Facebook · WhatsApp |
-|---|---|---|
-| Boodschap | *Waarom ben jij ondernemer geworden?* | *Je werk is goed, het wordt niet gezien* |
-| Loopt | wo 2 – di 8 sep | do 3 – wo 9 sep |
-| Eindigt | de avond ervóór | op de avond zelf |
-| Wachtrij | `content/linkedin/` | `content/dag-01…07.md` |
+> **Begin hier: [`RELEASE.md`](RELEASE.md)** — de kalender, wat automatisch gaat,
+> en wat er nog moet gebeuren om aan te zetten.
 
 | Bestand | Wat |
 |---|---|
+| [`RELEASE.md`](RELEASE.md) | **De handleiding.** Kalender, media, aanzetten, meten |
 | [`STRATEGIE.md`](STRATEGIE.md) | De opzet: kanalen, remmen, niveaus |
-| [`LINKEDIN.md`](LINKEDIN.md) | LinkedIn-campagne, kalender, media en meting |
-| [`WHATSAPP.md`](WHATSAPP.md) | WhatsApp als opkomstkanaal, met kant-en-klare berichten |
-| [`content/BEELD.md`](content/BEELD.md) | Welk formaat waarheen, en hoe je posters opnieuw rendert |
-| [`RUNBOOK.md`](RUNBOOK.md) | Wat er elke dag stap voor stap gebeurt |
+| [`LINKEDIN.md`](LINKEDIN.md) | LinkedIn-campagne, media en meting |
+| [`WHATSAPP.md`](WHATSAPP.md) | WhatsApp als opkomstkanaal + kant-en-klare berichten |
+| [`RUNBOOK.md`](RUNBOOK.md) | Wat de dagelijkse run doet, inclusief de vooruitblik |
+| [`content/BEELD.md`](content/BEELD.md) | Formaten, en hoe je de posters opnieuw rendert |
 | [`state.json`](state.json) | Teller, einddatum, kanalen, links |
-| `beeld/` | 14 posters — 4:5 voor de feed, 9:16 voor Stories en Status |
+| `content/dag-01…07.md` | Instagram · Facebook · WhatsApp |
+| `content/linkedin/` | LinkedIn, zeven posts |
+| `beeld/` | 15 bestanden — 4:5, 9:16 en de 16:9-still |
 
-**Status: niet gestart.** Er staat niets aan.
+**Status: niet gestart.** Nog geen enkele Zapier-koppeling actief.
 
-## Meetbare links
-`?van=li` · `?van=ig` · `?van=fb` · `?van=wa` op `aimelo.nl/aanmelden/2`
+## Kalender
+do 27 aug → wo 2 sep · afsluitrun do 3 sep · harde stop 2 september
 
-## Nog nodig voor dag 1
-1. **Advertentievideo** (LinkedIn dag 1 en 3) en **twee stills** (dag 4 en 5)
-2. Zapier koppelen aan LinkedIn, Instagram en Facebook Pages
-3. WhatsApp: zakelijk nummer, Business-app, kanaal en een `wa.me`-link
-4. Beslissen: volgen de posters de LinkedIn-boodschap, of blijven het twee campagnes?
-5. Posters vergelijken met je Canva-originelen — dit is een reconstructie
+## Nog nodig
+1. Zapier koppelen aan LinkedIn, Instagram en Facebook Pages
+2. Het echte gifje in `beeld/` (LinkedIn dag 1 en 3)
+3. WhatsApp: zakelijk nummer, Business-app, kanaal, `wa.me`-link
+4. Posters vergelijken met je Canva-originelen — dit is een reconstructie

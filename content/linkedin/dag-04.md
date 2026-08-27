@@ -1,13 +1,12 @@
 ---
 kanaal: linkedin
 dag: 4
-datum: 2026-09-05
-dagnaam: zaterdag
+datum: 2026-08-30
+dagnaam: zondag
+jouw_post: 4
 onderwerp: "vakmanschap"
-media: "still met een ondernemer aan het werk"
-media_bestand: STILL-NOG-AANLEVEREN
-automatiseerbaar: ja
-let_op: "zaterdag — zwakste LinkedIn-slot van de reeks"
+beeld: beeld/dag-05-4x5.png
+_beeld: "poster — Je kasten zijn maatwerk"
 status: gepland
 ---
 

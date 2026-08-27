@@ -1,13 +1,12 @@
 ---
 kanaal: linkedin
 dag: 5
-datum: 2026-09-06
-dagnaam: zondag
+datum: 2026-08-31
+dagnaam: maandag
+jouw_post: 5
 onderwerp: "vraagpost"
-media: "campagne-still"
-media_bestand: STILL-NOG-AANLEVEREN
-automatiseerbaar: ja
-let_op: "vraagpost op zondag werkt goed — laagdrempelig, mensen reageren in hun eigen tijd"
+beeld: beeld/dag-03-4x5.png
+_beeld: "poster — Je tuinen zijn prachtig"
 status: gepland
 ---
 

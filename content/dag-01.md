@@ -1,6 +1,6 @@
 ---
 dag: 1
-datum: 2026-09-03
+datum: 2026-08-27
 dagnaam: donderdag
 invalshoek: "de brede haak — iedereen met goed werk en geen budget"
 doelgroep: alle lokale ondernemers
