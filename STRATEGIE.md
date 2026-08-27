@@ -17,8 +17,10 @@ Dat tweede gegeven bepaalt de hele opzet. Dit is geen losse contentweek — het
 is **een aanloop naar één woensdagavond.** Zeven dagen die ergens naartoe
 lopen, in plaats van zeven dagen die toevallig achter elkaar vallen.
 
-> **Daarom begint de sprint op donderdag.**
-> Donderdag → woensdag is precies zeven dagen. Dag 7 is de avond zelf.
+> **Daarom loopt alles naar woensdag 9 september toe.**
+> LinkedIn draait woensdag 2 t/m dinsdag 8 september en eindigt de avond ervóór.
+> Instagram, Facebook en WhatsApp draaien donderdag 3 t/m woensdag 9 en eindigen
+> op de avond zelf. Beide precies zeven posts; zie [`LINKEDIN.md`](LINKEDIN.md).
 
 Loopt hij goed, dan draai je hem opnieuw voor de woensdag erna. Deze week is de
 proef, niet het eindpunt.
@@ -116,6 +118,12 @@ koppeling meer.
 > **Advies: doe alle drie.** Instagram en Facebook voor de aanmeldingen,
 > LinkedIn voor het gezag.
 
+### LinkedIn draait een eigen campagne
+LinkedIn heeft een eigen boodschap gekregen — *waarom ben jij eigenlijk ondernemer
+geworden?* — met zeven eigen posts, een eigen kalender en een meetbare link. Dat
+is een ándere belofte dan de posters doen. Bewuste keuze of nog uit te lijnen:
+[`LINKEDIN.md`](LINKEDIN.md) §2.
+
 ### En dan WhatsApp — een ander soort kanaal
 WhatsApp hoort niet in dit rijtje, want het doet iets anders. Social media trekt
 aandacht; **WhatsApp zorgt dat mensen ook werkelijk komen opdagen.** Dat is het
@@ -209,7 +217,8 @@ alles af, ook als er ergens nog een Routine blijft staan.
 
 | | Wat | Wie |
 |---|---|---|
-| 1 | **Locatie en aanmeldlink** — de tijd staat er nu in, deze twee nog niet | Jij |
+| 1 | ~~Locatie en aanmeldlink~~ — klaar: Moving-In Almelo, `aimelo.nl/aanmelden/2` | ✓ |
+| 1b | **Video en stills voor LinkedIn** dag 1, 3, 4, 5 | Jij |
 | 2 | ~~Herexport naar 1080×1350~~ — klaar, 14 bestanden in `beeld/` | ✓ |
 | 3 | ~~Beeld dag 6 en 7~~ — klaar | ✓ |
 | 3b | WhatsApp: zakelijk nummer, Business-app, kanaal, wa.me-link | Jij |

@@ -11,17 +11,9 @@ laatste: true
 
 ## LinkedIn
 
-Vanavond.
-
-18.00 – 21.00 uur · [LOCATIE] · gratis · laptop mee
-
-Loop binnen. Aanmelden hoeft niet meer, er is plek.
-
-En dan de vraag waar het deze week om ging: wat is het beste werk dat jij dit jaar hebt afgeleverd — en waar staat het online? Als het antwoord "nergens" is, dan weet je waar je vanavond moet zijn.
-
-beeld: beeld/dag-07-4x5.png
-eerste-reactie: Route en alle datums: [AANMELDLINK]
-hashtags: #almelo #twente #mkb
+> Verhuisd naar `content/linkedin/`. LinkedIn draait een eigen campagne
+> (*waarom ben jij ondernemer geworden?*) op een eigen kalender die een dag
+> eerder begint en op de avond vóór het evenement eindigt. Zie `LINKEDIN.md`.
 
 ## Instagram
 
@@ -31,7 +23,7 @@ alt: Poster met de tekst "Vanavond. Gratis AI-avond in Almelo", met tijd en adre
 Vanavond. 👇
 
 18.00 – 21.00 uur
-[LOCATIE]
+Moving-In Almelo
 Gratis · laptop mee · loop gewoon binnen
 
 Wat is het mooiste dat je dit jaar hebt gemaakt — en waar staat het online? Als het antwoord "nergens" is: tot vanavond.

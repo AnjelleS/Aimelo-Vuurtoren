@@ -10,19 +10,9 @@ status: gepland
 
 ## LinkedIn
 
-Je mooiste werk hangt bij je klant. Niet op je feed.
-
-Dat is het stille probleem van bijna elk vakmanschap: het beste wat je maakt, verdwijnt achter een voordeur. De klant is blij, jij bent trots, en niemand anders ziet het ooit.
-
-Ondertussen kiest de volgende klant een leverancier op basis van wat hij online kan vínden.
-
-Woensdagavond laten we in een paar uur zien hoe je dat omdraait — met AI als gereedschap, niet als toverstok. Foto's van je eigen werk, een verhaal eromheen, en een manier om dat vol te houden naast een volle agenda.
-
-Gratis. 18.00 – 21.00 uur · [LOCATIE]
-
-beeld: beeld/dag-02-4x5.png
-eerste-reactie: Aanmelden en de datums: [AANMELDLINK]
-hashtags: #vakmanschap #almelo #twente #mkb
+> Verhuisd naar `content/linkedin/`. LinkedIn draait een eigen campagne
+> (*waarom ben jij ondernemer geworden?*) op een eigen kalender die een dag
+> eerder begint en op de avond vóór het evenement eindigt. Zie `LINKEDIN.md`.
 
 ## Instagram
 
@@ -34,7 +24,7 @@ Je mooiste werk hangt bij je klant. Niet op je feed.
 Zonde. Want de volgende klant zoekt online — en vindt daar niets van wat je kunt.
 
 Woensdag, Almelo, gratis. Neem je laptop en je foto's mee.
-18.00 – 21.00 uur · [LOCATIE] · link in bio
+18.00 – 21.00 uur · Moving-In Almelo · link in bio
 
 hashtags: #vakmanschap #almelo #twente #schilder #interieurbouw #stukadoor #lokaalondernemen #mkb #ondernemenintwente #ai
 

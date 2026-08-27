@@ -10,19 +10,9 @@ status: gepland
 
 ## LinkedIn
 
-Je tuinen zijn prachtig. Maar wie ziet ze?
-
-Een hovenier die twintig jaar bouwt aan tuinen waar mensen hun zomer in doorbrengen, en online staat er één foto uit 2019 op een pagina die niemand bijhoudt.
-
-Het is niet dat je het niet wilt. Het is dat je om zeven uur 's ochtends begint en om zes uur 's avonds stopt, en dan nog offertes hebt liggen.
-
-Daar is AI wél goed voor: het stuk waar jij geen tijd voor hebt. Woensdagavond in Almelo laten we zien hoe. Gratis, laptop mee, en je gaat weg met iets dat af is.
-
-18.00 – 21.00 uur · [LOCATIE]
-
-beeld: beeld/dag-03-4x5.png
-eerste-reactie: Aanmelden en de datums: [AANMELDLINK]
-hashtags: #hovenier #almelo #twente #mkb
+> Verhuisd naar `content/linkedin/`. LinkedIn draait een eigen campagne
+> (*waarom ben jij ondernemer geworden?*) op een eigen kalender die een dag
+> eerder begint en op de avond vóór het evenement eindigt. Zie `LINKEDIN.md`.
 
 ## Instagram
 
@@ -34,7 +24,7 @@ Je tuinen zijn prachtig. Maar wie ziet ze?
 Twintig jaar vakwerk, en online één foto uit 2019. Niet uit onwil — je begint om zeven uur.
 
 Woensdagavond in Almelo doen we het samen. Gratis.
-18.00 – 21.00 uur · [LOCATIE] · link in bio
+18.00 – 21.00 uur · Moving-In Almelo · link in bio
 
 hashtags: #hovenier #tuinaanleg #groenvoorziening #almelo #twente #lokaalondernemen #mkb #vakmanschap #ondernemenintwente #ai
 

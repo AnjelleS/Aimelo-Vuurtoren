@@ -10,23 +10,9 @@ status: gepland
 
 ## LinkedIn
 
-Je werk is goed. Dat is het probleem niet.
-
-Het probleem is dat niemand het ziet.
-
-In Almelo zitten tientallen ondernemers met vakwerk waar je stil van wordt — hoveniers, bakkers, meubelmakers, schilders — en een online vindbaarheid van bijna nul. Niet uit onwil. Uit tijdgebrek, en omdat een marketingbureau geld kost dat je liever in gereedschap steekt.
-
-Daarom doen we elke woensdag een gratis AI-avond in Almelo.
-
-Geen verkooppraatje, geen offerte achteraf. Je neemt je laptop mee en je gaat naar huis met iets dat werkt: teksten die klinken alsof jij ze schreef, een postplanning die je volhoudt, een profiel dat wél gevonden wordt.
-
-18.00 – 21.00 uur · [LOCATIE] · gratis
-
-Ken je iemand die hier iets aan heeft? Tag ze hieronder.
-
-beeld: beeld/dag-01-4x5.png
-eerste-reactie: Aanmelden en de datums: [AANMELDLINK]
-hashtags: #almelo #twente #mkb #ondernemen
+> Verhuisd naar `content/linkedin/`. LinkedIn draait een eigen campagne
+> (*waarom ben jij ondernemer geworden?*) op een eigen kalender die een dag
+> eerder begint en op de avond vóór het evenement eindigt. Zie `LINKEDIN.md`.
 
 ## Instagram
 
@@ -37,8 +23,8 @@ Geen marketingbudget? Wel werk dat gezien mag worden.
 
 Elke woensdag zit je bij ons aan tafel in Almelo. Gratis, laptop mee. Je gaat naar huis met iets dat werkt — niet met een offerte.
 
-18.00 – 21.00 uur · [LOCATIE]
-Aanmelden via de link in bio.
+18.00 – 21.00 uur · Moving-In Almelo
+Aanmelden via de link in bio: https://aimelo.nl/aanmelden/2?van=ig
 
 hashtags: #almelo #twente #ondernemenintwente #mkb #lokaalondernemen #ai #zzp #vakmanschap #almelocity #twentseondernemers
 

@@ -10,19 +10,9 @@ status: gepland
 
 ## LinkedIn
 
-Morgenavond. Almelo. Gratis.
-
-Vijf dagen lang hebben we hetzelfde gezegd, in vijf verschillende vakken: het werk is goed, het wordt alleen niet gezien.
-
-Morgen doen we er iets aan. Je neemt je laptop mee, wij zorgen voor koffie en een paar uur waarin je niet gestoord wordt. Aan het eind heb je iets af — geen aantekeningen, geen huiswerk.
-
-Aanschuiven kan nog.
-
-18.00 – 21.00 uur · [LOCATIE]
-
-beeld: beeld/dag-06-4x5.png
-eerste-reactie: Aanmelden: [AANMELDLINK]
-hashtags: #almelo #twente #mkb
+> Verhuisd naar `content/linkedin/`. LinkedIn draait een eigen campagne
+> (*waarom ben jij ondernemer geworden?*) op een eigen kalender die een dag
+> eerder begint en op de avond vóór het evenement eindigt. Zie `LINKEDIN.md`.
 
 ## Instagram
 
@@ -33,8 +23,8 @@ Morgenavond.
 
 Laptop mee, koffie staat klaar, en je gaat naar huis met iets dat af is.
 
-18.00 – 21.00 uur · [LOCATIE] · gratis
-Aanschuiven kan nog — link in bio.
+18.00 – 21.00 uur · Moving-In Almelo · gratis
+Aanschuiven kan nog — link in bio (https://aimelo.nl/aanmelden/2?van=ig).
 
 hashtags: #almelo #twente #ondernemenintwente #mkb #lokaalondernemen #ai #zzp #vakmanschap #almelocity #gratis
 

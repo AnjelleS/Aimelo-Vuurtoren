@@ -10,19 +10,9 @@ status: gepland
 
 ## LinkedIn
 
-Je brood verkoopt zichzelf. Je verhaal nog niet.
-
-Wie eenmaal binnen is geweest, komt terug. Dat is het punt niet. Het punt is iedereen die nog nooit langs die deur is gelopen.
-
-Die mensen zoeken op hun telefoon. En daar wint niet de beste bakker, maar de best vindbare.
-
-Woensdagavond, Almelo, gratis: hoe je met AI in een uur een verhaal neerzet dat klopt met wat je écht doet. Geen marketingtaal. Jouw woorden, alleen sneller opgeschreven.
-
-18.00 – 21.00 uur · [LOCATIE]
-
-beeld: beeld/dag-04-4x5.png
-eerste-reactie: Aanmelden en de datums: [AANMELDLINK]
-hashtags: #bakker #almelo #twente #mkb
+> Verhuisd naar `content/linkedin/`. LinkedIn draait een eigen campagne
+> (*waarom ben jij ondernemer geworden?*) op een eigen kalender die een dag
+> eerder begint en op de avond vóór het evenement eindigt. Zie `LINKEDIN.md`.
 
 ## Instagram
 
@@ -34,7 +24,7 @@ Je brood verkoopt zichzelf. Je verhaal nog niet.
 Wie binnen is geweest komt terug. Maar wie nog nooit langs die deur liep, zoekt op z'n telefoon — en vindt de best vindbare, niet de beste.
 
 Woensdag in Almelo. Gratis.
-18.00 – 21.00 uur · [LOCATIE] · link in bio
+18.00 – 21.00 uur · Moving-In Almelo · link in bio
 
 hashtags: #bakker #ambacht #speciaalzaak #almelo #twente #lokaalondernemen #mkb #vakmanschap #ondernemenintwente #ai
 

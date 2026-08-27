@@ -112,15 +112,17 @@ wordt gedempt. Kort, gewoon, alsof je het zelf typt — want dat doe je ook.
 ```
 Vanaf nu vind je hier elke week wat er woensdag op tafel ligt.
 
-Woensdag 18.00–21.00, [LOCATIE]. Gratis, laptop mee.
+Woensdag 18.00–21.00, Moving-In Almelo. Gratis, laptop mee.
 Je gaat naar huis met iets dat af is — niet met een offerte.
+
+Aanmelden kan ook: https://aimelo.nl/aanmelden/2?van=wa
 
 Tot dan 👋
 ```
 
 ### Kanaal — dag 6 (dinsdag)
 ```
-Morgen 18.00 uur, [LOCATIE].
+Morgen 18.00 uur, Moving-In Almelo.
 
 Neem je laptop mee en één ding waar je al maanden tegenaan kijkt.
 Daar gaan we mee aan de slag.
@@ -130,7 +132,7 @@ Er is nog plek.
 
 ### Kanaal — dag 7 (woensdag, rond 12.00)
 ```
-Vanavond 18.00 uur, [LOCATIE].
+Vanavond 18.00 uur, Moving-In Almelo.
 
 Loop gewoon binnen, aanmelden hoeft niet meer.
 Koffie staat klaar tot 21.00.
@@ -140,7 +142,7 @@ Koffie staat klaar tot 21.00.
 ```
 Top, je staat genoteerd 👍
 
-Woensdag 18.00–21.00, [LOCATIE].
+Woensdag 18.00–21.00, Moving-In Almelo.
 Neem je laptop mee, en als je hebt: een paar foto's van je werk.
 
 Verder hoef je niets voor te bereiden.
@@ -157,7 +159,7 @@ makkelijke manier om af te zeggen — en juist dáárdoor komen mensen.
 
 ### 1-op-1 — de dag zelf (woensdag, rond 12.00)
 ```
-Vanavond 18.00, [LOCATIE]. Tot straks!
+Vanavond 18.00, Moving-In Almelo. Tot straks!
 
 (Parkeren kan [PARKEERINFO])
 ```

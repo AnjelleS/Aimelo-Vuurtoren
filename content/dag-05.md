@@ -10,19 +10,9 @@ status: gepland
 
 ## LinkedIn
 
-Je kasten zijn maatwerk. Je marketing nog niet.
-
-Je meet tot op de millimeter. Je kiest het hout, je past aan tot het klopt. En dan zet je een standaard zinnetje op Facebook dat net zo goed van iemand anders had kunnen zijn.
-
-Dat is niet gek — je bent meubelmaker, geen tekstschrijver. Maar het is wel zonde.
-
-Woensdagavond in Almelo: gratis AI-avond, laptop mee. Aan het eind heb je iets dat net zo goed past als je werk.
-
-18.00 – 21.00 uur · [LOCATIE]
-
-beeld: beeld/dag-05-4x5.png
-eerste-reactie: Aanmelden en de datums: [AANMELDLINK]
-hashtags: #meubelmaker #almelo #twente #mkb
+> Verhuisd naar `content/linkedin/`. LinkedIn draait een eigen campagne
+> (*waarom ben jij ondernemer geworden?*) op een eigen kalender die een dag
+> eerder begint en op de avond vóór het evenement eindigt. Zie `LINKEDIN.md`.
 
 ## Instagram
 
@@ -34,7 +24,7 @@ Je kasten zijn maatwerk. Je marketing nog niet.
 Je meet tot op de millimeter — en zet er dan een standaard zinnetje bij dat van iedereen had kunnen zijn.
 
 Woensdag, Almelo, gratis. Laptop mee.
-18.00 – 21.00 uur · [LOCATIE] · link in bio
+18.00 – 21.00 uur · Moving-In Almelo · link in bio
 
 hashtags: #meubelmaker #maatwerk #timmerman #interieurbouw #almelo #twente #lokaalondernemen #mkb #vakmanschap #ai
 
