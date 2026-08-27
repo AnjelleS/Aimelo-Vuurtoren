@@ -20,7 +20,7 @@ Daarom doen we elke woensdag een gratis AI-avond in Almelo.
 
 Geen verkooppraatje, geen offerte achteraf. Je neemt je laptop mee en je gaat naar huis met iets dat werkt: teksten die klinken alsof jij ze schreef, een postplanning die je volhoudt, een profiel dat wél gevonden wordt.
 
-[TIJD] · [LOCATIE] · gratis
+18.00 – 21.00 uur · [LOCATIE] · gratis
 
 Ken je iemand die hier iets aan heeft? Tag ze hieronder.
 
@@ -37,7 +37,13 @@ Geen marketingbudget? Wel werk dat gezien mag worden.
 
 Elke woensdag zit je bij ons aan tafel in Almelo. Gratis, laptop mee. Je gaat naar huis met iets dat werkt — niet met een offerte.
 
-[TIJD] · [LOCATIE]
+18.00 – 21.00 uur · [LOCATIE]
 Aanmelden via de link in bio.
 
 hashtags: #almelo #twente #ondernemenintwente #mkb #lokaalondernemen #ai #zzp #vakmanschap #almelocity #twentseondernemers
+
+## WhatsApp
+
+<!-- Handwerk: Status en Kanaal hebben geen API, dit kan niet geautomatiseerd. -->
+status: beeld/dag-01-9x16.png
+kanaal: Kanaal: aankondiging (zie WHATSAPP.md §6)

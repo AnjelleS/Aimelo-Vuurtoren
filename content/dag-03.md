@@ -18,7 +18,7 @@ Het is niet dat je het niet wilt. Het is dat je om zeven uur 's ochtends begint 
 
 Daar is AI wél goed voor: het stuk waar jij geen tijd voor hebt. Woensdagavond in Almelo laten we zien hoe. Gratis, laptop mee, en je gaat weg met iets dat af is.
 
-[TIJD] · [LOCATIE]
+18.00 – 21.00 uur · [LOCATIE]
 
 beeld: beeld/dag-03-4x5.png
 eerste-reactie: Aanmelden en de datums: [AANMELDLINK]
@@ -34,6 +34,12 @@ Je tuinen zijn prachtig. Maar wie ziet ze?
 Twintig jaar vakwerk, en online één foto uit 2019. Niet uit onwil — je begint om zeven uur.
 
 Woensdagavond in Almelo doen we het samen. Gratis.
-[TIJD] · [LOCATIE] · link in bio
+18.00 – 21.00 uur · [LOCATIE] · link in bio
 
 hashtags: #hovenier #tuinaanleg #groenvoorziening #almelo #twente #lokaalondernemen #mkb #vakmanschap #ondernemenintwente #ai
+
+## WhatsApp
+
+<!-- Handwerk: Status en Kanaal hebben geen API, dit kan niet geautomatiseerd. -->
+status: beeld/dag-03-9x16.png
+kanaal: —

@@ -62,31 +62,24 @@ nooit tot een achtste post.
 
 ---
 
-## 3. Het beeldprobleem — dit moet eerst opgelost
+## 3. Het beeld — klaar
 
-Je posters zijn **1080×1920 (9:16)**. Dat is Stories-formaat.
+Veertien bestanden staan in `beeld/`: zeven posters, elk op **1080×1350 (4:5)**
+voor de feed en **1080×1920 (9:16)** voor Stories en WhatsApp Status. **18.00 –
+21.00 uur** staat in beeld.
 
-Instagram accepteert via de API alleen feed-beelden tussen **4:5 en 1.91:1**.
-9:16 valt daarbuiten, dus Instagram croppt automatisch:
+Je oorspronkelijke posters waren 9:16. Instagram accepteert via de API alleen
+feed-beelden tussen 4:5 en 1.91:1, dus die zouden automatisch gecropt zijn — 285
+px van boven en 285 px van onder weg, dwars door de kop en vlak langs het logo.
+De 4:5-versies zijn opnieuw opgebouwd in die kortere hoogte, niet gecropt.
 
-```
-1080 × 1920  (jouw poster)
-  ├─  285 px  ← WEG, boven      bovenkant van de koptekst
-  ├─ 1350 px     blijft over
-  └─  285 px  ← WEG, onder      hier zit het AiMELO-logo vlakbij
-```
+Dag 6 (*Morgenavond. Nog plek.*) en dag 7 (*Vanavond. Loop gewoon binnen.*) zijn
+er nieuw bij ontworpen.
 
-570 pixels uit een ontwerp waarin de tekst juist de volle hoogte gebruikt. Dat
-gaat zichtbaar mis.
-
-**Oplossing: exporteer elke poster ook als 1080×1350 (4:5).** Geen crop maar een
-herexport, waarbij de tekstblokken opnieuw in de kortere hoogte worden gezet.
-Tien minuten in Canva, en het scheelt vijf verminkte posts. Dezelfde 4:5-versie
-gaat ook naar LinkedIn — die kapt 9:16 net zo goed af.
-
-**Je 9:16-versies zijn niet verspild.** Zet ze elke dag met de hand in je
-Stories, náást de automatische feed-post. Dertig seconden werk, en Stories is
-precies waar lokale ondernemers in Almelo wél kijken. Via de API kan het niet.
+> **Let op:** dit is een reconstructie in jullie stijl, geen export van je
+> Canva-originelen — die had ik niet. De kopletter is Anton, de dichtstbijzijnde
+> vrij beschikbare tegenhanger. Leg ze naast je eigen bestanden voordat je ze
+> gebruikt. Zie `content/BEELD.md`.
 
 ---
 
@@ -122,6 +115,16 @@ koppeling meer.
 
 > **Advies: doe alle drie.** Instagram en Facebook voor de aanmeldingen,
 > LinkedIn voor het gezag.
+
+### En dan WhatsApp — een ander soort kanaal
+WhatsApp hoort niet in dit rijtje, want het doet iets anders. Social media trekt
+aandacht; **WhatsApp zorgt dat mensen ook werkelijk komen opdagen.** Dat is het
+echte risico van een gratis avond: gratis kost niets, dus het kost ook niets om
+niet te komen.
+
+Status en Kanalen hebben géén API, dus WhatsApp valt buiten de machine — twee
+minuten handwerk per dag, op woensdag vijf. De volledige opzet, inclusief de
+kant-en-klare berichten, staat in [`WHATSAPP.md`](WHATSAPP.md).
 
 ---
 
@@ -206,13 +209,15 @@ alles af, ook als er ergens nog een Routine blijft staan.
 
 | | Wat | Wie |
 |---|---|---|
-| 1 | **Tijd, locatie en aanmeldlink** — staat op geen enkele poster, en ontbreekt nu in alle zeven captions | Jij |
-| 2 | Herexport van de vijf posters naar 1080×1350 | Jij |
-| 3 | Beeld voor dag 6 (MORGEN) en dag 7 (VANAVOND), zelfde stijl | Samen |
+| 1 | **Locatie en aanmeldlink** — de tijd staat er nu in, deze twee nog niet | Jij |
+| 2 | ~~Herexport naar 1080×1350~~ — klaar, 14 bestanden in `beeld/` | ✓ |
+| 3 | ~~Beeld dag 6 en 7~~ — klaar | ✓ |
+| 3b | WhatsApp: zakelijk nummer, Business-app, kanaal, wa.me-link | Jij |
 | 4 | Instagram op Business/Creator + Facebook-pagina koppelen | Jij |
 | 5 | Zapier koppelen: LinkedIn, Instagram, Facebook Pages | Jij |
 | 6 | Beeld op een publieke URL zetten | Ik |
 | 7 | Routines aanzetten met einddatum 9 september | Ik |
 
-Punt 1 is de belangrijkste. Vijf prachtige posters die niet zeggen waar je
-naartoe moet, leveren nul aanmeldingen op.
+Punt 1 is de belangrijkste. De tijd staat er nu in, maar zonder locatie en een
+knop om op te drukken leveren zeven prachtige posters nog steeds nul
+aanmeldingen op.

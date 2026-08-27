@@ -18,7 +18,7 @@ Dat is niet gek — je bent meubelmaker, geen tekstschrijver. Maar het is wel zo
 
 Woensdagavond in Almelo: gratis AI-avond, laptop mee. Aan het eind heb je iets dat net zo goed past als je werk.
 
-[TIJD] · [LOCATIE]
+18.00 – 21.00 uur · [LOCATIE]
 
 beeld: beeld/dag-05-4x5.png
 eerste-reactie: Aanmelden en de datums: [AANMELDLINK]
@@ -34,6 +34,12 @@ Je kasten zijn maatwerk. Je marketing nog niet.
 Je meet tot op de millimeter — en zet er dan een standaard zinnetje bij dat van iedereen had kunnen zijn.
 
 Woensdag, Almelo, gratis. Laptop mee.
-[TIJD] · [LOCATIE] · link in bio
+18.00 – 21.00 uur · [LOCATIE] · link in bio
 
 hashtags: #meubelmaker #maatwerk #timmerman #interieurbouw #almelo #twente #lokaalondernemen #mkb #vakmanschap #ai
+
+## WhatsApp
+
+<!-- Handwerk: Status en Kanaal hebben geen API, dit kan niet geautomatiseerd. -->
+status: beeld/dag-05-9x16.png
+kanaal: —

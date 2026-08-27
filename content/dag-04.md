@@ -18,7 +18,7 @@ Die mensen zoeken op hun telefoon. En daar wint niet de beste bakker, maar de be
 
 Woensdagavond, Almelo, gratis: hoe je met AI in een uur een verhaal neerzet dat klopt met wat je écht doet. Geen marketingtaal. Jouw woorden, alleen sneller opgeschreven.
 
-[TIJD] · [LOCATIE]
+18.00 – 21.00 uur · [LOCATIE]
 
 beeld: beeld/dag-04-4x5.png
 eerste-reactie: Aanmelden en de datums: [AANMELDLINK]
@@ -34,6 +34,12 @@ Je brood verkoopt zichzelf. Je verhaal nog niet.
 Wie binnen is geweest komt terug. Maar wie nog nooit langs die deur liep, zoekt op z'n telefoon — en vindt de best vindbare, niet de beste.
 
 Woensdag in Almelo. Gratis.
-[TIJD] · [LOCATIE] · link in bio
+18.00 – 21.00 uur · [LOCATIE] · link in bio
 
 hashtags: #bakker #ambacht #speciaalzaak #almelo #twente #lokaalondernemen #mkb #vakmanschap #ondernemenintwente #ai
+
+## WhatsApp
+
+<!-- Handwerk: Status en Kanaal hebben geen API, dit kan niet geautomatiseerd. -->
+status: beeld/dag-04-9x16.png
+kanaal: —
