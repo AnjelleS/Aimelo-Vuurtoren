@@ -1,17 +1,35 @@
 {
-  "campagne": "7-daagse sprint LinkedIn + Instagram",
+  "campagne": "AiMelo — 7 dagen naar de woensdagavond",
+  "merk": "AiMelo · aimelo.nl",
+  "evenement": {
+    "wat": "Gratis AI-avond in Almelo",
+    "ritme": "elke woensdag",
+    "tijd": null,
+    "locatie": null,
+    "aanmeldlink": null,
+    "_let_op": "deze drie staan op GEEN van de vijf posters — de caption moet ze dragen"
+  },
   "status": "niet-gestart",
+
+  "_anker": "de sprint loopt naar de woensdagavond toe: dag 7 = de avond zelf",
+  "startdag": "donderdag",
+  "startdatum": "2026-09-03",
+  "harde_stopdatum": "2026-09-09",
 
   "_teller": "REM A — run 7 verwijdert de Routine(s) hieronder",
   "dag": 0,
   "laatste_dag": 7,
 
-  "_datum": "REM B — na deze datum publiceert geen enkele run nog iets, wat de teller ook zegt",
-  "startdatum": null,
-  "harde_stopdatum": null,
-
   "_niveau": "1 = alleen klaarzetten | 2 = LinkedIn auto, Instagram concept | 3 = beide auto",
   "niveau": 2,
+
+  "beeld": {
+    "aangeleverd": "5 posters, 1080x1920 (9:16)",
+    "nodig": "herexport 1080x1350 (4:5) — 9:16 valt buiten wat Instagram feed accepteert",
+    "nog_te_maken": ["dag-06 MORGEN", "dag-07 VANAVOND"],
+    "publieke_url_klaar": false,
+    "stories_handmatig": "de 9:16-versies elke dag met de hand in Stories — kan niet via de API"
+  },
 
   "kanalen": {
     "linkedin": {

@@ -1,0 +1,39 @@
+---
+dag: 7
+datum: 2026-09-09
+dagnaam: woensdag
+invalshoek: "de dag zelf — vanavond, met alle praktische info"
+doelgroep: iedereen
+beeld_bron: "NOG TE MAKEN — zelfde stijl, boodschap VANAVOND + tijd en adres in beeld"
+status: gepland
+laatste: true
+---
+
+## LinkedIn
+
+Vanavond.
+
+[TIJD] · [LOCATIE] · gratis · laptop mee
+
+Loop binnen. Aanmelden hoeft niet meer, er is plek.
+
+En dan de vraag waar het deze week om ging: wat is het beste werk dat jij dit jaar hebt afgeleverd — en waar staat het online? Als het antwoord "nergens" is, dan weet je waar je vanavond moet zijn.
+
+beeld: beeld/dag-07-4x5.png
+eerste-reactie: Route en alle datums: [AANMELDLINK]
+hashtags: #almelo #twente #mkb
+
+## Instagram
+
+beeld: beeld/dag-07-4x5.png
+alt: Poster met de tekst "Vanavond. Gratis AI-avond in Almelo", met tijd en adres.
+
+Vanavond. 👇
+
+[TIJD]
+[LOCATIE]
+Gratis · laptop mee · loop gewoon binnen
+
+Wat is het mooiste dat je dit jaar hebt gemaakt — en waar staat het online? Als het antwoord "nergens" is: tot vanavond.
+
+hashtags: #almelo #twente #ondernemenintwente #mkb #lokaalondernemen #ai #zzp #vakmanschap #almelocity #vanavond
