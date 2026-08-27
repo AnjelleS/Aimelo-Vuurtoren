@@ -1,0 +1,38 @@
+{
+  "campagne": "7-daagse sprint LinkedIn + Instagram",
+  "status": "niet-gestart",
+
+  "_teller": "REM A — run 7 verwijdert de Routine(s) hieronder",
+  "dag": 0,
+  "laatste_dag": 7,
+
+  "_datum": "REM B — na deze datum publiceert geen enkele run nog iets, wat de teller ook zegt",
+  "startdatum": null,
+  "harde_stopdatum": null,
+
+  "_niveau": "1 = alleen klaarzetten | 2 = LinkedIn auto, Instagram concept | 3 = beide auto",
+  "niveau": 2,
+
+  "kanalen": {
+    "linkedin": {
+      "aan": false,
+      "doel": null,
+      "_doel_opties": ["persoonlijk_profiel", "bedrijfspagina"],
+      "zapier_app": "LinkedInCLIAPI",
+      "koppeling": "ONTBREEKT — nog niet verbonden in Zapier"
+    },
+    "instagram": {
+      "aan": false,
+      "zapier_app": "InstagramBusinessCLIAPI",
+      "koppeling": "ONTBREEKT — nog niet verbonden in Zapier",
+      "vereisten": {
+        "business_of_creator_account": false,
+        "gekoppeld_aan_facebook_pagina": false,
+        "publieke_beeld_url_beschikbaar": false
+      }
+    }
+  },
+
+  "_routines": "trigger-id's die run 7 moet opruimen; leeg tot ze aangezet zijn",
+  "routines": []
+}
