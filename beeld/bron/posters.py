@@ -64,7 +64,7 @@ body{{background:{cream};font-family:AntonL,AntonX,Impact,sans-serif;
       <span class="gratis">Gratis AI-avond</span>
       <span class="tijd">18.00 &ndash; 21.00 uur</span>
       <span class="plaats">in Almelo</span>
-      <span class="url" id="url">aimelo.nl/aanmelden/2/</span>
+      <span class="url" id="url">aimelo.nl/aanmelden/2</span>
     </div>
   </div>
   <div class="bar"></div><div class="hair"></div>

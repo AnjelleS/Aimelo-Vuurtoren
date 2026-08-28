@@ -22,7 +22,7 @@ body{{background:{cream};font-family:AntonL,AntonX,Impact,sans-serif;}}
   <span class="elke">&bull;&nbsp; Elke &nbsp;&bull;</span>
   <span class="wo">Woensdag</span>
   <span class="sub">gratis Ai-avond in Almelo</span>
-  <span class="url">aimelo.nl/aanmelden/2/</span>
+  <span class="url">aimelo.nl/aanmelden/2</span>
 </div><script>document.body.dataset.klaar='1';</script></body></html>"""
 
 from playwright.sync_api import sync_playwright

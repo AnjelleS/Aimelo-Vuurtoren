@@ -53,7 +53,7 @@ zijn viewer-pagina's, geen bestanden.
 
 ## De aanmeldlink staat waar het logo stond
 
-Onderaan elk beeld staat nu `aimelo.nl/aanmelden/2/` in plaats van het
+Onderaan elk beeld staat nu `aimelo.nl/aanmelden/2` in plaats van het
 AiMELO-logo. Het merk zit nog steeds in beeld — het staat in het domein — maar
 de regel is nu een instructie in plaats van een handtekening.
 
