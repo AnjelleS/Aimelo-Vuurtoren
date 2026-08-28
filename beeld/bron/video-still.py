@@ -17,15 +17,12 @@ body{{background:{cream};font-family:AntonL,AntonX,Impact,sans-serif;}}
 .elke{{color:{lime};font-size:34px;letter-spacing:.34em;text-transform:uppercase;margin-bottom:14px;}}
 .wo{{color:{navy};font-size:152px;line-height:.9;letter-spacing:.006em;text-transform:uppercase;}}
 .sub{{color:{grijs};font-size:50px;line-height:1.1;margin-top:26px;letter-spacing:.004em;}}
-.logo{{position:absolute;left:64px;bottom:56px;color:{navy};font-size:52px;letter-spacing:.005em;}}
-.logo i{{color:{lime};font-style:normal;}}
-.url{{position:absolute;right:64px;bottom:56px;color:{navy};font-size:40px;letter-spacing:.004em;}}
+.url{{position:absolute;left:64px;bottom:56px;color:{navy};font-size:46px;letter-spacing:.003em;}}
 </style></head><body><div class="c">
   <span class="elke">&bull;&nbsp; Elke &nbsp;&bull;</span>
   <span class="wo">Woensdag</span>
   <span class="sub">gratis Ai-avond in Almelo</span>
-  <span class="logo">A<i>i</i>MELO</span>
-  <span class="url">aimelo.nl</span>
+  <span class="url">https://aimelo.nl/aanmelden/2/</span>
 </div><script>document.body.dataset.klaar='1';</script></body></html>"""
 
 from playwright.sync_api import sync_playwright

@@ -17,8 +17,7 @@ body{background:#FBF2EA;font-family:AntonL,AntonX,Impact,sans-serif;
 .voet .gratis{color:#86C63F;font-size:58px;line-height:1.02;text-transform:uppercase;letter-spacing:.006em;}
 .voet .tijd{color:#16293A;font-size:52px;line-height:1.06;text-transform:uppercase;letter-spacing:.01em;}
 .voet .plaats{color:#16293A;font-size:52px;line-height:1.06;text-transform:uppercase;letter-spacing:.01em;}
-.logo{color:#16293A;font-size:62px;line-height:1;letter-spacing:.005em;margin-top:26px;}
-.logo i{color:#86C63F;font-style:normal;}
+.url{color:#16293A;font-size:58px;line-height:1.06;letter-spacing:.003em;margin-top:26px;white-space:nowrap;}
 .bar{position:absolute;left:38px;bottom:52px;width:104px;height:11px;background:#86C63F;}
 .hair{position:absolute;left:38px;right:38px;bottom:34px;height:3px;background:#16293A;}
 </style></head><body>
@@ -33,7 +32,7 @@ body{background:#FBF2EA;font-family:AntonL,AntonX,Impact,sans-serif;
       <span class="gratis">Gratis AI-avond</span>
       <span class="tijd">18.00 &ndash; 21.00 uur</span>
       <span class="plaats">in Almelo</span>
-      <span class="logo">A<i>i</i>MELO</span>
+      <span class="url" id="url">https://aimelo.nl/aanmelden/2/</span>
     </div>
   </div>
   <div class="bar"></div><div class="hair"></div>
@@ -53,5 +52,11 @@ function fit(id, maxBase){
   regels.forEach(r => r.style.fontSize = (base * parseFloat(r.dataset.w)) + 'px');
 }
 fit('k1', 150); fit('k2', 150);
+(function(){
+  const u = document.getElementById('url');
+  const maat = u.parentElement.parentElement.clientWidth;
+  const base = parseFloat(getComputedStyle(u).fontSize);
+  if (u.scrollWidth > maat) u.style.fontSize = (base * maat / u.scrollWidth) + 'px';
+})();
 document.body.dataset.klaar = '1';
 </script></body></html>

@@ -2,8 +2,8 @@
 
 ## Wat er is gerenderd
 
-**14 bestanden in `beeld/`** — zeven posters, elk in twee formaten, met
-**18.00 – 21.00 uur** in beeld.
+**15 bestanden in `beeld/`** — zeven posters in twee formaten plus één 16:9-still,
+met **18.00 – 21.00 uur** en de aanmeldlink in beeld.
 
 | Formaat | Waar het heen gaat | Automatisch? |
 |---|---|---|
@@ -50,3 +50,13 @@ Elk beeld moet op een directe, publieke URL staan voordat het gepubliceerd kan
 worden. De map `beeld/` in deze repo werkt daarvoor — bestanden zijn bereikbaar
 via `raw.githubusercontent.com`. Een Drive- of Dropbox-deellink werkt niet: dat
 zijn viewer-pagina's, geen bestanden.
+
+## De aanmeldlink staat waar het logo stond
+
+Onderaan elk beeld staat nu `https://aimelo.nl/aanmelden/2/` in plaats van het
+AiMELO-logo. Het merk zit nog steeds in beeld — het staat in het domein — maar
+de regel is nu een instructie in plaats van een handtekening.
+
+De link schaalt automatisch mee: past hij niet binnen het paneel, dan verkleint
+de renderer hem tot hij past. Wil je hem korter, laat `https://` weg in
+`beeld/bron/posters.py` — dat scheelt een kwart van de breedte en leest rustiger.
