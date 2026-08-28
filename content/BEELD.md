@@ -53,10 +53,10 @@ zijn viewer-pagina's, geen bestanden.
 
 ## De aanmeldlink staat waar het logo stond
 
-Onderaan elk beeld staat nu `https://aimelo.nl/aanmelden/2/` in plaats van het
+Onderaan elk beeld staat nu `aimelo.nl/aanmelden/2/` in plaats van het
 AiMELO-logo. Het merk zit nog steeds in beeld — het staat in het domein — maar
 de regel is nu een instructie in plaats van een handtekening.
 
 De link schaalt automatisch mee: past hij niet binnen het paneel, dan verkleint
-de renderer hem tot hij past. Wil je hem korter, laat `https://` weg in
-`beeld/bron/posters.py` — dat scheelt een kwart van de breedte en leest rustiger.
+de renderer hem tot hij past. `https://` staat er bewust niet bij — dat scheelt
+een kwart van de breedte en leest rustiger.
